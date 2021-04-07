@@ -1,0 +1,169 @@
+{
+	"carta1":{"nome": "Levedura", 
+		"url": "https://www.comciencia.br/wp-content/uploads/2017/09/levedura-672x372.jpg",
+		"atributos":{
+			"Letalidade": 1,
+			"Contagio": 1,
+			"Biossegurança": 2
+		},
+		"descricao": "As leveduras são fungos unicelulares no qual são conhecidas cerca de 1.500 espécies. A levedura mais conhecida é a Saccharomyces cerevisae que é usada, por exemplo, para produção de pão e cerveja. As leveduras capazes de causar doenças são patógenos oportunistas,  afetando pessoas com o sistema imune comprometido."
+	},
+
+	"carta2":{"nome": "Vírus da Dengue",
+                "url": "https://web.stanford.edu/group/virus/flavi/2000/deng_em.jpg",
+                "atributos":{
+                        "Letalidade": 1,
+                        "Contagio": 0,
+                        "Biossegurança": 2
+                },
+		"descricao": "O vírus da dengue pertence a família Flaviviridae e está inserido no gênero Flavivirus. Existem quatro sorotipos identificados do vírus da dengue: DENV-1, DENV-2, DENV-3 e DENV-4 .No Brasil, esse vírus é transmitido pela picada do mosquito fêmea Aedes aegypti quando infectada pelo vírus. Existem duas manifestações possíveis da dengue, a mais comum e chamada de clássica e a forma mais perigosa denominada dengue hemorrágica."
+        },
+
+	"carta3":{"nome": "HIV (Vírus da imunodeficiência humana)",
+                "url": "https://i.insider.com/5d79619a2e22af09d03f5f72?width=1100&format=jpeg&auto=webp",
+                "atributos":{
+                        "Letalidade": 3,
+                        "Contagio": 2,
+                        "Biossegurança": 2
+                },
+		"descricao": "O HIV é o vírus causador da doença conhecida como SIDA (Sindrome da Imunodeficiência Adquirida) qual é mais conhecida por sua sigla em inglês: AIDS. Esse vírus tem um período de incubação longo antes que surjam os sintomas da AIDS. Ele ataca as células do sistema imune humano, sendo que as mais atingidas são os linfocitos T CD4+ (importantes para coordenar a resposta imune)."
+        },
+
+	"carta4":{"nome": "Poliovírus",
+                "url": "https://www.news-medical.net/image.axd?picture=2018%2F3%2Fshutterstock_By_Everett_Historical.jpg",
+                "atributos":{
+                        "Letalidade": 1,
+                        "Contagio": 3,
+                        "Biossegurança": 3
+                },
+		"descricao": "Esse é o vírus causador da doença chamada de Poliomelite, Pólio ou Paralisia infantil. Este é um dos vírus mais bem caracterizados e um modelo para o estudo de vírus de RNA. Nem todas as pessoas que contraem o vírus desenvolvem o quadro de paralisia, porém quando desenvolvido essa condição pode ser fatal. A prevenção contra esse vírus é a vacinação, sendo administrada desde a década de 1960, houve uma grande redução na quantidade de individuos afetados por essa doença."
+        },
+
+	"carta6":{"nome": "Mycobacterium tuberculosis",
+                "url": "https://www.luciacangussu.bio.br/wp-content/uploads/2016/10/atlas-mycobacterium-tuberculosis.jpg",
+                "atributos":{
+                        "Letalidade": 3,
+                        "Contagio": 3,
+                        "Biossegurança": 3
+                },
+		"descricao": "Essa bactéria causa a doença chamada Tuberculose e tem uma grande letalidade entre seus infectados. Essa bactéria tem um formato de bacilo e possui uma parede celular muito espessa. Devido ao grande uso de antibióticos, existem cepas desta bactéria que são multiresistentes a uma grande variedade de antibióticos."
+        },
+
+	"carta7":{"nome": "Adenovírus",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Adenovirus_4.jpg",
+                "atributos":{
+                        "Letalidade": 1,
+                        "Contagio": 2,
+                        "Biossegurança": 2
+                },
+		"descricao": "Existem diversos sorotipos de Adenovírus e tem uma grande quantidade de hospedeiros, porém todos vertebrados. Em humanos esse vírus causa diversas doenças, sendo as mais conhecidas são as infecções respiratórias e intestinais. Uma coisa legal sobre esses vírus é que eles são usados como vetores de vacinas, carregando uma porção de outro vírus ou bactéria que é usada para a reação imune. Algumas vacinas para o SARS-Cov2 (Covid19) utilizam esse vírus como vetor."
+        },
+
+	"carta8":{"nome": "Vírus do Mosaico do Tabaco (TMV)",
+                "url": "https://images.uncyc.org/pt/6/6f/Virus-do-mosaico-do-tabaco.jpg",
+                "atributos":{
+                        "Letalidade": 0,
+                        "Contagio": 5,
+                        "Biossegurança": 1
+                },
+		"descricao": "Apesar do nome, esse vírus tem uma grande quantidade de hospedeiros, sendo que todos eles são plantas. Quando infectada, as folhas da planta adquire manchas descoloridas. Esse foi o primeiro vírus isolado, purificado e caracterizado, sendo que diversos trabalhos importantes e ganhadores de Nobels foram feitos usando o TMV."
+        },
+
+	"carta9":{"nome": "SARS-CoV",
+                "url": "https://www.nih.gov/sites/default/files/styles/floated_media_breakpoint-medium/public/news-events/research-matters/2020/20200303-conv.jpg?itok=hfXA-Fdr&timestamp=1583244144",
+                "atributos":{
+                        "Letalidade": 4,
+                        "Contagio": 4,
+                        "Bisosegurança": 3
+                },
+		"descricao": "SARS-CoV é a sigla em inglês para Severe Acute Respiratory Syndrome Coronavirus. O primeiro surto de coronavírus ocorreu em Fevereiro de 2003 na Asia, sendo espalhado alguns mêses depois para 24 países da região. No final de 2019 foi identificado um novo coronavírus denominado SARS-CoV2. A primeira identificação desse vírus foi na região de Wuhan na China, alguns mêses depois ele foi sendo disseminado de pessoa a pessoa até se tornar a primeira Pandemia após um século."
+        },
+
+	"carta10":{"nome": "Influenza (A, B e C)",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/H1N1_influenza_virus.jpg",
+                "atributos":{
+                        "Letalidade": 5,
+                        "Contagio": 3,
+                        "Biossegurança": 2
+                },
+		"descricao": "O vírus da Influenza causa a doença chamada Gripe. Essa é uma infecção viral muito comum, porém que pode ser fatal em alguns grupos de risco. Há mais ou menos um século atrás o vírus da Gripe Espanhola causou a pior pandemia da história moderna até o momento, sendo que cerca de 500 milhões de pessoas foram infectadas e cerca de 50 milhões faleceram."
+        },
+
+	"carta11":{"nome": "Yersinia pestis (Peste Bubónica)",
+                "url": "https://media.sciencephoto.com/image/c0090894/800wm",
+                "atributos":{
+                        "Letalidade": 5,
+                        "Contagio": 5,
+                        "Biossegurança": 3
+                },
+		"descricao": "A bactéria Yersinia pestis é a causadora da doença chamada de Peste Bubónica, qual causou a morte de milhares de pessoas durante a Idade Média. A mordidade de pulgas infectadas por essa bactéria é a forma primária de transmissão para humanos. Após o desenvolvimento da doença, pessoas infectadas podem transmitir a bactéria por meio de goticulas que podem ser inaladas. O tratamento dessa doença pode ser feita com antibióticos em seus estágios iniciais."
+        },
+
+	"carta12":{"nome": "Lactobacilos",
+                "url": "https://sc04.alicdn.com/kf/ULB8cSsOs1vJXKJkSajh7637aFXaj.png",
+                "atributos":{
+                        "Letalidade": 1,
+                        "Contagio": 0,
+                        "Biossegurança": 1
+                },
+		"descricao": "Os lactobacilos são bactérias que convertem a lactose (presente no leite, por exemplo) em ácido lactico. Essa conversão em ácido lactico faz com que o pH do ambiente em que estão essas bactérias diminua, tornando ele mais ácido. Elas são abundantes e muito importantes tanto na microbiota gastrointestinal e vaginal, já que a diminuição do pH desses ambientes previne o aumento em quantidade de bactérias que podem ser prejudiciais."
+        },
+
+	"carta13":{"nome": "Escherichia coli",
+                "url": "https://www.news-medical.net/image.axd?picture=2019%2F4%2Fshutterstock_1028309074.jpg",
+                "atributos":{
+                        "Letalidade": 1,
+                        "Contagio": 2,
+                        "Biossegurança": 2
+                },
+		"descricao": "A Escherichia coli é uma bactéria que habita o ambiente gastrointestinal de animais de sangue quente (Mamiferos e Aves). Essa é uma das bactérias mais bem estudadas e tem uma grande flexibilidade para manipulação genômica. Existem diversas cepas de Escherichia coli, sendo que algumas delas carregam a toxina Shiga e estão associadas a infecções alimentares causando uma diarreia muito forte."
+        },
+
+	"carta14":{"nome": "Staphylococcus aureus",
+                "url": "https://www.microbiologyinpictures.com/bacteriainphotos/bacteria%20under%20microscope/gram%20positive%20bacteria/staphylococcus%20aureus%20vancomycin%20resistant.jpg",
+                "atributos":{
+                        "Letalidade": 3,
+                        "Contagio": 2,
+                        "Biossegurança": 2
+                },
+		"descricao": "Essa bactéria frequentemente causa infecções cutâneas, porém também podem causar pneumonia e infecções ósseas. Um dos maiores problemas com infecções por essa bactéria é quando ela atinge a corrente sanguinea, causando um quadro de septicemia que pode ser fatal. Um dos grandes problemas com o S. aureus é o surgimento de cepas que são multiresistentes (bactérias resistentes a diferentes classes de antimicrobianos)."
+        },
+
+	"carta15":{"nome": "Salmonella spp.",
+                "url": "https://cdn.britannica.com/24/123224-004-C1A4B848/Salmonella-typhimurium.jpg",
+                "atributos":{
+                        "Letalidade": 2,
+                        "Contagio": 1,
+                        "Biossegurança": 2
+                },
+		"descricao": "As Salmonelas estão ligadas a diversas infecções alimentares. Essas bactérias podem ser encontradas na superfície vários alimentos, sendo que alguns destaques são nos ovos e em carnes mal-cozidas. Boa parte das pessoas irão enfrentar sintomas leves que incluem diarreia e desconforto abdominal."
+        },
+
+	"carta16":{"nome": "Vibrio cholerae",
+                "url": "https://www.news-medical.net/image.axd?picture=2018%2F7%2Fshutterstock_519646156.jpg",
+                "atributos":{
+                        "Letalidade": 2,
+                        "Contagio": 1,
+                        "Biossegurança": 2
+                },
+		"descricao": "Essa é a bactéria que causa a doença chamada de Cólera. Ela secreta uma toxina que causa uma forte diarreia, fazendo com que a pessoa fique desidratada. Se não for tratado, essa doença pode ser fatal. A sua forma de transmissão ocorre por meio de água e alimentos contaminados. Anualmente essa bactéria afeta cerca de 5 milhões de pessoas no mundo e frequentemente causa diversos surtos."
+        },
+
+	"carta17":{"nome": "MERS-CoV",
+                "url": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2015/06/12-02973-4-MERS-tvips43-crop-scalebar-100nm-300x300.jpg",
+                "atributos":{
+                        "Letalidade": 3,
+                        "Contagio": 3,
+                        "Biossegurança": 3
+                },
+		"descricao": "MERS-CoV é a sigla em inglês para Middle Eastern Respiratory Syndrome Coronavirus. Como o nome indica, esse é um tipo de coronavírus, porém diferente do SARS-CoV, este foi identificado pela primeira vez na Árabia Saudita em 2012. Seus sintomas não são específicos, incluíndo febre, tosse e redução da capacidade de respiração. Porém, a doença pode evoluir para uma sindrome respiratória que pode ser fatal. Existe uma vacina para esse vírus."
+        },
+
+	"carta18":{"nome": "SUS",
+                "url": "https://cee.fiocruz.br/sites/default/files/styles/chamada_grande/public/SUS%20%282%29_0.jpg?itok=OK8h_Ik0",
+                "atributos":{
+                        "Trunfo": 100
+                },
+		"descricao": "O SUS (Sitema Único de Saúde) foi instituido em 1988 com a promulgação da Constituição. Ele oferece a todo cidadão brasileiro acesso integral, universal e gratuito a serviços de saúde. Além disso, o SUS desempenha diversas outras funções como o controle da qualidade da água potável, fiscalização de alimentos pela Vigilância Sanitária, campanhas de vacinação, doação de sangue e leite materno. Assim como diversos procedimentos de saúde são realizados todo ano, desde consultas simples de rotina a procedimentos de alta complexidade como o transplante de órgãos."
+        }
+}
